@@ -1,5 +1,5 @@
 
 # Java Project
 
-<img src="" width="50%" height="50%" />
+<img src="https://github.com/zzyzzy/HelloJava/blob/master/img/SJV1.png?raw=true" />
 

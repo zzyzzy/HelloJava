@@ -1,5 +1,14 @@
 package zzyzzy;
 
+/**
+ * 파일명 : SungJukV1.java
+ * 작성일 : xxxx.xx.xx
+ * 파일설명 : 성적처리 프로그램
+ *
+ * 프로그램 설명 : 성적처리프로그램 v1
+ * 이름,국어,영어,수학점수를 설정하고
+ * 총점,평균을 계산하고 결과를 출력
+ */
 public class SungJukV1 {
 
     public static void main(String[] args) {
